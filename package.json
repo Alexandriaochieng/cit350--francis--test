@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "Package json\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CMy package \u001b[C\u001b[C\u001b json",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  {
+    "scripts":{
+      "hello":"node helloworld.js"  
+      }
+    }
   },
   "repository": {
     "type": "git",
