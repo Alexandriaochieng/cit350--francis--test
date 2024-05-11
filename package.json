@@ -1,0 +1,18 @@
+{
+  "name": "cit350--francis--test",
+  "version": "1.0.0",
+  "description": "Package json\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[CMy package \u001b[C\u001b[C\u001b json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016"
+  },
+  "keywords": [
+    "\u0016"
+  ],
+  "author": "\u001b[A\u001b[C\u001b[C\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+  "license": "UNLICENSED"
+}
