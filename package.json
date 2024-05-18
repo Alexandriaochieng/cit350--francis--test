@@ -5,8 +5,8 @@
   "main": "index.js",
   {
     "scripts":{
-      "hello":"node helloworld.js"  
-      }
+      "test": "jest"
+      
     }
   },
   "repository": {
