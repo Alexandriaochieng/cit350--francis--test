@@ -16,6 +16,9 @@
   "keywords": [
     "\u0016"
   ],
+  "dependencies": {
+  "aws-sdk": "^2.814.0"
+}
   "author": "\u001b[A\u001b[C\u001b[C\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
   "license": "UNLICENSED"
 }
